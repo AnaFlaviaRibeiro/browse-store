@@ -1,14 +1,15 @@
-# Título do Projeto
+# Browse Store
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
-
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	Este projeto tem como escopo o desenvolvimento de um sistema informatizado para
+a Browse Store. A finalidade do software é aprimorar a experiência de compra do cliente e,
+concomitantemente, facilitar o processo de administração e gestão de estoque para os
+gestores da loja.
 </h4>
 
 # Índice/Sumário
@@ -25,20 +26,23 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [x] Cadastro de peças
+- [x] Informações de peças
+- [ ] Controle de Estoque
+- [ ] Atualização de estoque
+- [ ] Itens no carrinho
+- [ ] Informações do carrinho
+- [ ] Finalização de compra
+- [ ] Relatório de Vendas
+- [ ] Cadastro do cliente
+- [ ] Geração de pedido
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Java](https://www.java.com/pt-BR/)
+- [Postegres](https://www.postgresql.org/)
 
 # Contribuição
 
